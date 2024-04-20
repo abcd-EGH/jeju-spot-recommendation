@@ -1,5 +1,6 @@
-This project is travel spot recommendation service on demand forecasting for senior.
-I developed a recommendation system based on user-based collaborative filtering using tourism data.
+- This project is travel spot recommendation service on demand forecasting for senior.
+- I developed a recommendation system based on user-based collaborative filtering using tourism data.
+- Demand forecasting was performed using the LSTM model.
 
 And, you can view demo site with streamlit framework!
 1. 'git clone' this repository.
