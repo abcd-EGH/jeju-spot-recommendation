@@ -8,9 +8,12 @@ from RecommendationModel import recommender
 # -------------------------- Setting --------------------------
 # -------------------------------------------------------------
 
-spot = pd.read_csv('Demand_Forecasting/Recommend/spot.csv')
-senior = pd.read_csv('Demand_Forecasting/Recommend/senior.csv')
-rcd_data = pd.read_csv('Demand_Forecasting/Recommend/recommend_data.csv')
+# spot = pd.read_csv('Demand_Forecasting/Recommend/spot.csv')
+# senior = pd.read_csv('Demand_Forecasting/Recommend/senior.csv')
+# rcd_data = pd.read_csv('Demand_Forecasting/Recommend/recommend_data.csv')
+spot = pd.read_csv('Demand_Forecasting/spot.csv')
+senior = pd.read_csv('Demand_Forecasting/senior.csv')
+rcd_data = pd.read_csv('Demand_Forecasting/recommend_data.csv')
 
 cat_list = ['공연전시', '교육_체험', '도시탐방', '레저관광', '맛집_카페', '문화관광', '역사_유적지',
      '테마파크', '휴식_힐링','온천', '음식점', '자연', '즐길거리', '키즈', '기타']
