@@ -5,7 +5,7 @@
 And, you can view demo site with streamlit framework!
 1. 'git clone' this repository.
 ```
-git clone https://github.com/abcd-EGH/jeju-demand-forecasting.git
+git clone https://github.com/abcd-EGH/jeju-spot-recommendation.git
 ```
 2. Install streamlit on your system.
 ```
